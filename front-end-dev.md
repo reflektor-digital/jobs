@@ -56,5 +56,5 @@ Name: Maria Vasileva
 
 Email: maria@reflektor.digital
 
-Website: http://reflector.digital
+Website: http://reflektor.digital
 
