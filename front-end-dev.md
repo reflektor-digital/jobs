@@ -14,7 +14,7 @@
 
 We are a Toronto-based digital agency looking for an intermediate front-end developer to work on exciting, award-winning online experiences. With a variety of projects and an array of clients, you should thrive in a dynamic, creative environment and not be afraid to bring new ideas to the table. You will be working alongside a senior developer who will provide you with the tools and techniques for making impressive animations, transitions and effects.
 
-Skills and Qualifications 
+### Skills and Qualifications 
 
 * Javascript (ES6)
 
@@ -34,7 +34,7 @@ Skills and Qualifications
 
 * Navigating Photoshop / Sketch files
 
-Bonus Points
+## Bonus Points
 
 * React
 
@@ -52,7 +52,7 @@ We’re looking for someone who is passionate about design and making the web co
 
 ### Contact Info:
 
-Name: Maria
+Name: Maria Vasileva
 
 Email: maria@londry.co
 
