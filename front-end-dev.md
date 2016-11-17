@@ -1,16 +1,16 @@
 **Date Posted: November 10, 2016**
 
-**Start Date: Immediate **
+**Start Date: Immediate**
 
 **Salary: TBD**
 
 **Province: Ontario**
 
-**City: Toronto, Ontario **
+**City: Toronto, Ontario**
 
 **Term: Contract (opportunity for long term)**
 
-**Intermediate Front-End Developer **
+**Intermediate Front-End Developer**
 
 We are a Toronto-based digital agency looking for an intermediate front-end developer to work on exciting, award-winning online experiences. With a variety of projects and an array of clients, you should thrive in a dynamic, creative environment and not be afraid to bring new ideas to the table. You will be working alongside a senior developer who will provide you with the tools and techniques for making impressive animations, transitions and effects.
 
@@ -52,13 +52,7 @@ We’re looking for someone who is passionate about design and making the web co
 
 ### Contact Info:
 
-Name: 
-
-Telephone: 
-
-Telephone Ext.: 
-
-Fax: 
+Name: Maria
 
 Email: maria@londry.co
 
