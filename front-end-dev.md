@@ -54,7 +54,7 @@ We’re looking for someone who is passionate about design and making the web co
 
 Name: Maria Vasileva
 
-Email: maria@londry.co
+Email: maria@reflektor.digital
 
-Website: reflectr@digital.co
+Website: http://reflector.digital
 
